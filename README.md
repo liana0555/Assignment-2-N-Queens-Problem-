@@ -9,9 +9,7 @@ The purpose of the project is:
 - Measurement of execution time, memory usage, and solution success.
 - Visualization of solution attempts with clear conclusions on the board.
 --
-
 ## Key Features
-
 - Implementation of the N-Queens task in pure Python.
 - Optimization algorithms written from scratch:
 - DFS (depth-first search)
@@ -35,5 +33,5 @@ Timer and memory profiling, board class, helper functions and so on are inside o
 2. Extract the ZIP file  
 3. Open the folder in your terminal
 
--Run it: 
+- Run it: 
 python n_queens_main.py
